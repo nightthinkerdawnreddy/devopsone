@@ -1,1 +1,2 @@
 this is the two dot txt and modified one
+after the modified one the adding to the directory
