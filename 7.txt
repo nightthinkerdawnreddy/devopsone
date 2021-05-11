@@ -1,0 +1,3 @@
+this is from the seven.txt
+this is git stash command explanation
+
